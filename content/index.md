@@ -20,6 +20,7 @@ It may sound cliche in 2025, but it must be emphasized at the top that every org
 
 ## A Brief Overview of Interviews And Their Relative Effectiveness
 - Generally, interviews aim to filter candidate pools to identify the candidates who will perform the best
+- Hiring is an investment in talent
 - While not perfect, we are now awash in job performance data
 
 ### Unstructured Interviews
